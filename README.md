@@ -7,3 +7,10 @@ Simple age and gender detector using Machine learning
 4) Upload the cropped image of face to get accurate results
 5) Detect the image
 6) view the results
+
+# The Sample output of the model
+1) [Output1_virat 1](https://github.com/Makizharsu/Age-gender-Detector/blob/main/Output%201_virat%201.png)
+2) [Output2_virat_2](https://github.com/Makizharsu/Age-gender-Detector/blob/main/Outut%202_virat%202.png)
+3) [Output3_Elizbeth olsen](https://github.com/Makizharsu/Age-gender-Detector/blob/main/output_%203.png)
+4) [output4_Child 1](https://github.com/Makizharsu/Age-gender-Detector/blob/main/Output%204_child%201.png)
+5) [Output5_Child 2](https://github.com/Makizharsu/Age-gender-Detector/blob/main/output%205_child%202.png)
